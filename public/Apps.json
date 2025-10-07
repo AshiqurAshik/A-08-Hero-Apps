@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Nova Launcher",
+    "companyName": "TeslaCoil Apps",
+    "image": "https://picsum.photos/seed/nova/300/300",
+    "description": "The highly customizable, performance-driven, home screen replacement. Accept no substitutes! Nova Launcher is the top launcher for modern Android, embracing full Material Design throughout. It replaces your home screen with one you control and can customize, changing icon themes, colors, layouts, animations and more.\n\nNova is designed to be fast, efficient, and light on system resources, ensuring a smooth and fluid experience even on older devices. It strikes the perfect balance between incredible performance and high customizability. You can tweak everything from the desktop grid size, folder appearance, and dock settings to subtle animations and gestures, making your device truly yours.",
+    "size": 25,
+    "reviews": "1.5M",
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 30112 },
+      { "name": "2 star", "count": 19854 },
+      { "name": "3 star", "count": 50243 },
+      { "name": "4 star", "count": 198358 },
+      { "name": "5 star", "count": 1200000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Sync for Reddit",
+    "companyName": "Red Apps LTD",
+    "image": "https://picsum.photos/seed/sync/300/300",
+    "description": "Sync for Reddit is a full-featured app for browsing the popular site Reddit on the go. Featuring secure login, comments, messaging, profiles and much more. It's designed with a focus on providing the best possible Reddit experience through a beautiful and intuitive Material Design interface.\n\nEnjoy a rich feature set including multi-account support, a powerful submission editor with in-built editing options, and customizable themes including a stunning AMOLED night mode. Sync also offers offline support, allowing you to cache subreddits and comments for viewing when you don't have an internet connection.\n\nWith configurable settings for everything from font sizes to data usage, you can tailor your browsing experience precisely to your liking. It's the ultimate app for both casual lurkers and power users alike.",
+    "size": 32,
+    "reviews": "0.4M",
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 5123 },
+      { "name": "2 star", "count": 4987 },
+      { "name": "3 star", "count": 10034 },
+      { "name": "4 star", "count": 51090 },
+      { "name": "5 star", "count": 280000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pocket Casts",
+    "companyName": "Automattic, Inc.",
+    "image": "https://picsum.photos/seed/podcast/300/300",
+    "description": "The world's most powerful podcast platform, an app by listeners, for listeners. Pocket Casts has all the features you need to enjoy your favorite podcasts. Our app provides a next-level listening, search and discovery experience, so you can find your next obsession with our hand-curated podcast recommendations for easy discovery.\n\nTake control of your listening experience with powerful features like variable speed playback, trim silence to remove pauses, and volume boost to enhance voice clarity. Create a playback queue from your favorite shows and enjoy seamless cross-device synchronization of your progress, so you can pick up right where you left off on any device.\n\nBeyond just listening, Pocket Casts helps you organize your podcasts with powerful filters, automatic downloads, and storage management tools. It's the perfect app for anyone looking to dive deep into the world of podcasting.",
+    "size": 45,
+    "reviews": "0.2M",
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 6011 },
+      { "name": "2 star", "count": 4234 },
+      { "name": "3 star", "count": 10433 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Solid Explorer",
+    "companyName": "NeatBytes",
+    "image": "https://picsum.photos/seed/explorer/300/300",
+    "description": "This is Solid Explorer File and Cloud Manager, a powerful tool for managing files on your device and in the cloud. It helps you manage all your files in one place with a clean, intuitive dual-pane interface that allows for easy drag-and-drop file management between different locations.\n\nIt offers robust support for major cloud storage providers like Dropbox, Box, Google Drive, and OneDrive, as well as network protocols such as FTP, SFTP, WebDav, and SMB/CIFS. This allows you to manage both local and remote files seamlessly within a single application.\n\nFor power users, Solid Explorer provides root access, making it a fully functional root explorer. It also protects your sensitive files with strong AES encryption, allowing you to secure files and folders in a password or fingerprint-protected location.",
+    "size": 22,
+    "reviews": "0.4M",
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 10987 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 310000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Weather Timeline",
+    "companyName": "Sam Ruston",
+    "image": "https://picsum.photos/seed/weather/300/300",
+    "description": "A simple, elegant weather app that focuses on summarizing the next hour, 48 hours, and week so you don't have to. It presents the forecast in a timeline to help you quickly glance and digest the information, along with a beautiful and readable interface.\n\nIt features multiple weather provider options, allowing you to choose the most accurate data source for your location. The app includes a Time Machine feature, which lets you check the forecast months or even years in advance or see what the weather was like on a past date. Stay ahead of the storm with severe weather alerts and a helpful weather radar.",
+    "size": 18,
+    "reviews": "0.2M",
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 1123 },
+      { "name": "2 star", "count": 1222 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 130000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Aqua Mail",
+    "companyName": "MobiSystems",
+    "image": "https://picsum.photos/seed/mail/300/300",
+    "description": "The go-to app for all your email needs! Whether it’s a work or personal email, a corporate exchange server or even a seldom-used secondary account, Aqua Mail lets you easily access all your emails from one complete app. It offers a powerful, yet easy-to-use interface with a vast range of customization options.\n\nAqua Mail supports all major email protocols like IMAP, POP3, and SMTP, and works seamlessly with services such as Gmail, Yahoo, Hotmail, and Microsoft Exchange for corporate email. Security is a top priority, with support for OAUTH2 authentication for major services, ensuring your passwords are never stored on third-party servers.\n\nCustomize everything from per-account notifications and signatures to rich text formatting and themes. Smart Folder functionality unifies your important emails from different accounts into one list, while widgets and tasker integration provide unparalleled control and convenience.",
+    "size": 55,
+    "reviews": "0.3M",
+    "ratingAvg": 4.2,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 20432 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 160000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Moon+ Reader Pro",
+    "companyName": "Moon+",
+    "image": "https://picsum.photos/seed/reader/300/300",
+    "description": "A professional book reader with powerful controls & full functions. Supports epub, pdf, mobi, chm, cbr, cbz, umd, fb2, txt, html, rar, zip or OPDS formats, making it one of the most versatile e-readers available. Manage your entire digital library with ease and discover a superior reading experience.\n\nCustomize your view with over 10 embedded themes, including a Day & Night mode switcher. Adjust font size, style, line spacing, and background color to suit your preference. For long reading sessions, take advantage of the 'Keep your health' options, providing eye-care features like blue light filtering and brightness control to reduce strain.\n\nEnhance your reading with powerful tools for annotation, highlighting, and dictionary lookups (both offline and online). Sync your reading positions, bookmarks, and notes across all your devices via Dropbox or Google Drive, ensuring you never lose your place. It is the ultimate reader for book lovers.",
+    "size": 32,
+    "reviews": "0.2M",
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 2001 },
+      { "name": "2 star", "count": 1098 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 160000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Tasker",
+    "companyName": "joaomgcd",
+    "image": "https://picsum.photos/seed/tasker/300/300",
+    "description": "Total Automation, From Settings to SMS. Tasker is the ultimate automation app for Android, allowing you to create your own automated tasks to control your device's settings and actions based on various contexts and triggers. It puts the real power of your smartphone in your hands.\n\nTrigger actions based on the app you're in, the time of day, your location, your Wi-Fi network, received SMS or calls, or any other state or event. For example, you can set your phone to silent when you arrive at work, launch your music app when you plug in headphones, or send a pre-written SMS when you miss a call from a specific contact. The possibilities are virtually endless.\n\nWith over 350+ built-in actions and support for third-party plugins, you can extend Tasker's capabilities even further. While it has a steep learning curve, the level of control it offers is unparalleled, making it an essential tool for any Android enthusiast looking to get the most out of their device.",
+    "size": 15,
+    "reviews": "0.1M",
+    "ratingAvg": 4.4,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 7141 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 5500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "image": "https://picsum.photos/seed/spotify/300/300",
+    "description": "Spotify is the world's leading music streaming service, giving you access to millions of songs, podcasts, and videos from artists all over the world. Instantly find any track, artist, or album and listen for free, or upgrade to Spotify Premium to download music for offline listening, enjoy ad-free playback, and experience superior sound quality.\n\nDiscover new music through curated playlists tailored to your taste, like Discover Weekly and Release Radar, or create your own playlists for any mood or occasion. The platform is not just about music; it's also a massive hub for podcasts, offering everything from true crime to comedy and educational content.\n\nWith seamless integration across all your devices—phone, tablet, desktop, and smart speakers—your music is always with you. Spotify Connect allows you to effortlessly switch between devices without missing a beat.",
+    "size": 75,
+    "reviews": "25.5M",
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 19000000 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Signal Private Messenger",
+    "companyName": "Signal Foundation",
+    "image": "https://picsum.photos/seed/signal/300/300",
+    "description": "Say anything with Signal, an end-to-end encrypted messaging app where privacy isn't an optional mode—it's just the way Signal works. Every message, every call, every time. Share text, voice messages, photos, videos, GIFs and files for free with state-of-the-art security.\n\nSignal is an independent nonprofit; it is not tied to any major tech companies, and it can never be acquired by one. Development is supported by grants and donations from people like you who care about privacy. There are no ads, no affiliate marketers, and no creepy tracking.\n\nExperience fast, simple, and secure communication. Messages are delivered quickly and reliably, even on slow networks. Signal is optimized to operate in the most constrained environment possible, ensuring that your conversations are always accessible.",
+    "size": 60,
+    "reviews": "4.2M",
+    "ratingAvg": 4.7,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "VLC for Android",
+    "companyName": "VideoLAN",
+    "image": "https://picsum.photos/seed/vlc/300/300",
+    "description": "VLC media player is a free and open source cross-platform multimedia player that plays most multimedia files as well as discs, devices, and network streaming protocols. This is the port of VLC media player to the Android™ platform, renowned for its ability to play virtually any video or audio format you throw at it, without the need for external codecs.\n\nIts features include a full media library with search and history, support for network streams (including HLS), secondary display, and subtitle downloads. It also supports multi-track audio and subtitles, aspect-ratio adjustments, and gestures for controlling volume, brightness, and seeking.\n\nVLC for Android is completely free, has no ads, no in-app-purchases, no spying and is developed by passionate volunteers. All the source code is available for free.",
+    "size": 35,
+    "reviews": "1.8M",
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 1400000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Google Keep - Notes and Lists",
+    "companyName": "Google LLC",
+    "image": "https://picsum.photos/seed/keep/300/300",
+    "description": "Quickly capture what’s on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. Google Keep makes it easy to capture a thought or list for yourself, and share it with friends and family.\n\nOrganize your thoughts with notes, lists, and drawings. Color-code your notes to find them quickly, and add labels like 'To-dos' or 'Inspiration'. If you need to remember to pick up some groceries, you can set a location-based reminder to pull up your grocery list right when you get to the store.\n\nEverything you add to Keep syncs across all of your devices, so your important thoughts are always with you. Access your notes from anywhere through the mobile app or on the web.",
+    "size": 20,
+    "reviews": "2.1M",
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 1700000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Strava: Run, Ride, Hike",
+    "companyName": "Strava Inc.",
+    "image": "https://picsum.photos/seed/strava/300/300",
+    "description": "Strava is the ultimate social fitness network that connects millions of runners, cyclists, hikers, and other athletes. It's the perfect tool for tracking your fitness, recording your routes, and analyzing your performance over time. Whether you're training for a marathon or simply enjoy a daily bike ride, Strava turns your phone into a sophisticated activity tracker.\n\nJoin a vibrant community of athletes. Follow friends, training partners, and pros to see their activities and cheer them on with kudos. Participate in monthly challenges designed to push you further and compete for top spots on local leaderboards. Discover new places to go with route suggestions and heatmaps showing popular trails and roads.\n\nWhile the core features are free, Strava offers a subscription with advanced features like race analysis, customized training plans, and live feedback to help you achieve your fitness goals faster.",
+    "size": 95,
+    "reviews": "1.3M",
+    "ratingAvg": 4.5,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 220000 },
+      { "name": "5 star", "count": 900000 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Duolingo: Language Lessons",
+    "companyName": "Duolingo",
+    "image": "https://picsum.photos/seed/duolingo/300/300",
+    "description": "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more. Its gamified approach keeps you motivated with rewards, achievements, and competitive leaderboards.\n\nWhether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo. The app's core curriculum is completely free, with an optional subscription to remove ads and unlock additional features.",
+    "size": 50,
+    "reviews": "16.1M",
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Adobe Lightroom: Photo Editor",
+    "companyName": "Adobe",
+    "image": "https://picsum.photos/seed/lightroom/300/300",
+    "description": "Adobe Photoshop Lightroom is a free, yet powerful and intuitive photo editor and camera app. Lightroom empowers you to capture and edit beautiful images with easy-to-use tools like sliders, presets, and filters. It's the perfect tool for photographers who want to make their shots look amazing on the go.\n\nEdit your photos anywhere. With Lightroom, you have a comprehensive set of editing tools at your fingertips, including healing brushes, selective adjustments, and geometry tools. The app uses non-destructive editing, allowing you to experiment freely and revert to your original at any time. All your edits and photos are synced to the cloud, making them accessible on any device.\n\nOrganize your photos with searchable keywords, ratings, and flags. Lightroom uses Adobe Sensei AI to automatically tag your photos based on their content, making it incredibly easy to find the exact photo you're looking for.",
+    "size": 150,
+    "reviews": "1.9M",
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 110000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1400000 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "1Password - Password Manager",
+    "companyName": "1Password",
+    "image": "https://picsum.photos/seed/onepassword/300/300",
+    "description": "1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click. It's the beautiful, simple, and secure password manager you've been looking for. 1Password remembers all your passwords for you, and keeps them safe and secure behind the one password that only you know.\n\nGenerate strong, unique passwords for every site, so you're protected against website breaches. 1Password does more than just manage passwords: it keeps your financial information, documents, and other sensitive data safe with industry-leading encryption. Your data is protected at all times, both at rest and in transit.\n\nAccess your information wherever you are with seamless syncing across all your devices. Any change you make on one device is instantly available on all others. 1Password is designed to be your digital vault for all of life's important information.",
+    "size": 80,
+    "reviews": "0.1M",
+    "ratingAvg": 4.5,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "TickTick: To-do list & Tasks",
+    "companyName": "Appest Inc.",
+    "image": "https://picsum.photos/seed/ticktick/300/300",
+    "description": "TickTick is a simple and effective to-do list and task manager app which helps you make schedule, manage time, stay focused, remind about deadlines and organize life at home, work and everywhere else. It's trusted by millions to help them achieve their goals and make the most of their day.\n\nCapture ideas and tasks effortlessly with quick add, voice input, and email integration. Organize everything with lists, folders, tags, and priorities. TickTick also offers a built-in Pomodoro Timer and habit tracker to help you stay focused and build good habits. Its calendar view provides a clear overview of your schedule.\n\nCollaborate with others by sharing lists and assigning tasks to family, friends, or colleagues. With seamless cloud sync, your tasks are always up-to-date across all your devices, including Android, iOS, web, and desktop, ensuring you never miss a beat.",
+    "size": 40,
+    "reviews": "0.3M",
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 240000 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "AccuWeather: Weather Radar",
+    "companyName": "AccuWeather",
+    "image": "https://picsum.photos/seed/accuweather/300/300",
+    "description": "Get live weather forecasts, severe weather alerts, and accurate storm tracking with AccuWeather. Recognized for its superior accuracy, AccuWeather provides detailed hourly, daily, and 15-day forecasts that you can rely on. Prepare for your day with confidence, knowing you have the most up-to-date weather information.\n\nThe app features the patented AccuWeather RealFeel Temperature®, a proprietary algorithm that tells you how the weather actually feels outside. Advanced weather radar maps give you a live view of storms, while MinuteCast® provides minute-by-minute precipitation forecasts for the next two hours, hyper-localized to your exact street address.\n\nFrom air quality updates and UV index to sunrise and sunset times, AccuWeather offers a comprehensive suite of tools to keep you informed. Customize the app to get alerts for specific conditions like rain, snow, and high winds, so you're never caught off guard.",
+    "size": 110,
+    "reviews": "4.1M",
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Discord: Talk, Chat & Hang Out",
+    "companyName": "Discord Inc.",
+    "image": "https://picsum.photos/seed/discord/300/300",
+    "description": "Discord is your place to talk and hang out with your communities and friends. Whether you’re part of a school club, a gaming group, a worldwide art community, or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often.\n\nCreate a home for your communities and friends, where you can stay close and have fun over text, voice, and video chat. An invite-only place with topic-based channels, where you can collaborate, share, and just talk about your day without clogging up a group chat. High-quality voice and video feel like you're in the same room.\n\nDesigned for gamers and useful for everyone, Discord offers low-latency voice chat that won't slow down your game. But it's not just for gaming; millions of people use it for everything from study groups to virtual conventions. It's a reliable and versatile platform for communication.",
+    "size": 120,
+    "reviews": "5.2M",
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 3600000 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Authy 2-Factor Authentication",
+    "companyName": "Twilio, Inc.",
+    "image": "https://picsum.photos/seed/authy/300/300",
+    "description": "Authy is a simple and powerful app for managing two-factor authentication (2FA) accounts. It provides an extra layer of security for your online accounts by generating secure 2-step verification tokens on your device. This helps protect your accounts from hackers and hijackers.\n\nUnlike other authenticators, Authy offers secure cloud backups. If you lose your phone, you won't lose access to all your tokens. Simply install Authy on a new device and restore your accounts using a backup password. It also supports seamless multi-device synchronization, allowing you to access your 2FA tokens on your phone, tablet, and desktop.\n\nAuthy works with thousands of services that support TOTP (Time-based One-Time Password) authenticators, including Gmail, Facebook, Dropbox, and Amazon. It is the strong authentication solution of choice for protecting your most valuable digital assets.",
+    "size": 28,
+    "reviews": "0.1M",
+    "ratingAvg": 4.4,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  }
+]

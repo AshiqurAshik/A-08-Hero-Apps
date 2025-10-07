@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Nova Launcher",
+    "companyName": "TeslaCoil Apps",
+    "image": "https://picsum.photos/seed/nova/300/300",
+    "description": "The highly customizable, performance-driven, home screen replacement. Accept no substitutes! Nova Launcher is the top launcher for modern Android, embracing full Material Design throughout. It replaces your home screen with one you control and can customize, changing icon themes, colors, layouts, animations and more.\n\nNova is designed to be fast, efficient, and light on system resources, ensuring a smooth and fluid experience even on older devices. It strikes the perfect balance between incredible performance and high customizability. You can tweak everything from the desktop grid size, folder appearance, and dock settings to subtle animations and gestures, making your device truly yours.",
+    "size": 25,
+    "reviews": "1.5M",
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 30112 },
+      { "name": "2 star", "count": 19854 },
+      { "name": "3 star", "count": 50243 },
+      { "name": "4 star", "count": 198358 },
+      { "name": "5 star", "count": 1200000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Sync for Reddit",
+    "companyName": "Red Apps LTD",
+    "image": "https://picsum.photos/seed/sync/300/300",
+    "description": "Sync for Reddit is a full-featured app for browsing the popular site Reddit on the go. Featuring secure login, comments, messaging, profiles and much more. It's designed with a focus on providing the best possible Reddit experience through a beautiful and intuitive Material Design interface.\n\nEnjoy a rich feature set including multi-account support, a powerful submission editor with in-built editing options, and customizable themes including a stunning AMOLED night mode. Sync also offers offline support, allowing you to cache subreddits and comments for viewing when you don't have an internet connection.\n\nWith configurable settings for everything from font sizes to data usage, you can tailor your browsing experience precisely to your liking. It's the ultimate app for both casual lurkers and power users alike.",
+    "size": 32,
+    "reviews": "0.4M",
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 5123 },
+      { "name": "2 star", "count": 4987 },
+      { "name": "3 star", "count": 10034 },
+      { "name": "4 star", "count": 51090 },
+      { "name": "5 star", "count": 280000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pocket Casts",
+    "companyName": "Automattic, Inc.",
+    "image": "https://picsum.photos/seed/podcast/300/300",
+    "description": "The world's most powerful podcast platform, an app by listeners, for listeners. Pocket Casts has all the features you need to enjoy your favorite podcasts. Our app provides a next-level listening, search and discovery experience, so you can find your next obsession with our hand-curated podcast recommendations for easy discovery.\n\nTake control of your listening experience with powerful features like variable speed playback, trim silence to remove pauses, and volume boost to enhance voice clarity. Create a playback queue from your favorite shows and enjoy seamless cross-device synchronization of your progress, so you can pick up right where you left off on any device.\n\nBeyond just listening, Pocket Casts helps you organize your podcasts with powerful filters, automatic downloads, and storage management tools. It's the perfect app for anyone looking to dive deep into the world of podcasting.",
+    "size": 45,
+    "reviews": "0.2M",
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 6011 },
+      { "name": "2 star", "count": 4234 },
+      { "name": "3 star", "count": 10433 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Solid Explorer",
+    "companyName": "NeatBytes",
+    "image": "https://picsum.photos/seed/explorer/300/300",
+    "description": "This is Solid Explorer File and Cloud Manager, a powerful tool for managing files on your device and in the cloud. It helps you manage all your files in one place with a clean, intuitive dual-pane interface that allows for easy drag-and-drop file management between different locations.\n\nIt offers robust support for major cloud storage providers like Dropbox, Box, Google Drive, and OneDrive, as well as network protocols such as FTP, SFTP, WebDav, and SMB/CIFS. This allows you to manage both local and remote files seamlessly within a single application.\n\nFor power users, Solid Explorer provides root access, making it a fully functional root explorer. It also protects your sensitive files with strong AES encryption, allowing you to secure files and folders in a password or fingerprint-protected location.",
+    "size": 22,
+    "reviews": "0.4M",
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 10987 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 310000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Weather Timeline",
+    "companyName": "Sam Ruston",
+    "image": "https://picsum.photos/seed/weather/300/300",
+    "description": "A simple, elegant weather app that focuses on summarizing the next hour, 48 hours, and week so you don't have to. It presents the forecast in a timeline to help you quickly glance and digest the information, along with a beautiful and readable interface.\n\nIt features multiple weather provider options, allowing you to choose the most accurate data source for your location. The app includes a Time Machine feature, which lets you check the forecast months or even years in advance or see what the weather was like on a past date. Stay ahead of the storm with severe weather alerts and a helpful weather radar.",
+    "size": 18,
+    "reviews": "0.2M",
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 1123 },
+      { "name": "2 star", "count": 1222 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 130000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Aqua Mail",
+    "companyName": "MobiSystems",
+    "image": "https://picsum.photos/seed/mail/300/300",
+    "description": "The go-to app for all your email needs! Whether it’s a work or personal email, a corporate exchange server or even a seldom-used secondary account, Aqua Mail lets you easily access all your emails from one complete app. It offers a powerful, yet easy-to-use interface with a vast range of customization options.\n\nAqua Mail supports all major email protocols like IMAP, POP3, and SMTP, and works seamlessly with services such as Gmail, Yahoo, Hotmail, and Microsoft Exchange for corporate email. Security is a top priority, with support for OAUTH2 authentication for major services, ensuring your passwords are never stored on third-party servers.\n\nCustomize everything from per-account notifications and signatures to rich text formatting and themes. Smart Folder functionality unifies your important emails from different accounts into one list, while widgets and tasker integration provide unparalleled control and convenience.",
+    "size": 55,
+    "reviews": "0.3M",
+    "ratingAvg": 4.2,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 20432 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 160000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Moon+ Reader Pro",
+    "companyName": "Moon+",
+    "image": "https://picsum.photos/seed/reader/300/300",
+    "description": "A professional book reader with powerful controls & full functions. Supports epub, pdf, mobi, chm, cbr, cbz, umd, fb2, txt, html, rar, zip or OPDS formats, making it one of the most versatile e-readers available. Manage your entire digital library with ease and discover a superior reading experience.\n\nCustomize your view with over 10 embedded themes, including a Day & Night mode switcher. Adjust font size, style, line spacing, and background color to suit your preference. For long reading sessions, take advantage of the 'Keep your health' options, providing eye-care features like blue light filtering and brightness control to reduce strain.\n\nEnhance your reading with powerful tools for annotation, highlighting, and dictionary lookups (both offline and online). Sync your reading positions, bookmarks, and notes across all your devices via Dropbox or Google Drive, ensuring you never lose your place. It is the ultimate reader for book lovers.",
+    "size": 32,
+    "reviews": "0.2M",
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 2001 },
+      { "name": "2 star", "count": 1098 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 160000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Tasker",
+    "companyName": "joaomgcd",
+    "image": "https://picsum.photos/seed/tasker/300/300",
+    "description": "Total Automation, From Settings to SMS. Tasker is the ultimate automation app for Android, allowing you to create your own automated tasks to control your device's settings and actions based on various contexts and triggers. It puts the real power of your smartphone in your hands.\n\nTrigger actions based on the app you're in, the time of day, your location, your Wi-Fi network, received SMS or calls, or any other state or event. For example, you can set your phone to silent when you arrive at work, launch your music app when you plug in headphones, or send a pre-written SMS when you miss a call from a specific contact. The possibilities are virtually endless.\n\nWith over 350+ built-in actions and support for third-party plugins, you can extend Tasker's capabilities even further. While it has a steep learning curve, the level of control it offers is unparalleled, making it an essential tool for any Android enthusiast looking to get the most out of their device.",
+    "size": 15,
+    "reviews": "0.1M",
+    "ratingAvg": 4.4,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 7141 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 5500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  }
+]

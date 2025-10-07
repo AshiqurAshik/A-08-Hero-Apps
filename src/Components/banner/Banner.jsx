@@ -2,8 +2,13 @@ import React from 'react';
 import { IoLogoGooglePlaystore } from 'react-icons/io5';
 import { FaAppStoreIos } from 'react-icons/fa';
 import BannerImg from '../../assets/hero.png';
+import TrendingApp from '../TrendingApp/trendingApp';
+import { useLoaderData } from 'react-router';
 
 const Banner = () => {
+
+  const data = useLoaderData();
+
   return (
     <div className="hero bg-base-200 min-h-screen flex flex-col justify-center">
       <div className="hero-content text-center w-full flex flex-col items-center">
@@ -69,6 +74,9 @@ const Banner = () => {
                 </p>
               </div>
             </div>
+          </div>
+          <div>
+            <TrendingApp data = {data}></TrendingApp>
           </div>
         </div>
       </div>
