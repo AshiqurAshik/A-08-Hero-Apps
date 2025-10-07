@@ -1,6 +1,7 @@
 import React from 'react';
 import Logo from "../../assets/logo.png"
 import { Link } from 'react-router';
+import { FaGithub } from "react-icons/fa";
 
 const header = () => {
   return (
@@ -41,7 +42,11 @@ const header = () => {
 
   </div>
   <div className="navbar-end">
-    <a className="btn">Contribute</a>
+   <a className="btn text-white bg-gradient-to-r from-[#632EE3] to-[#9F62F2] hover:from-[#9F62F2] hover:to-[#632EE3] hover:brightness-110 transition-all duration-300 flex items-center gap-2">
+  <FaGithub />
+  Contribute
+</a>
+
   </div>
 </div>
   );
