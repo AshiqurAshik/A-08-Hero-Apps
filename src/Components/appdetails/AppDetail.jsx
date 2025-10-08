@@ -13,7 +13,6 @@ import {
   ResponsiveContainer,
 } from 'recharts';
 import AppErrorpage from '../Error/AppErrorpage';
-import InstallPage from '../Install App/InstallPage';
 
 const AppDetail = ({ installApps, setInstallApps }) => {
   const { id } = useParams();
@@ -36,7 +35,7 @@ const AppDetail = ({ installApps, setInstallApps }) => {
   };
 
   return (
-    <div className="max-w-4xl mx-auto mt-16 bg-white rounded-2xl shadow-lg p-8">
+    <div className="w-[80%] mx-auto mt-16 bg-white rounded-2xl p-8">
       <div className="flex md:flex-row flex-col items-center md:items-start gap-6">
         <img
           src={singleApp.image}
@@ -44,7 +43,7 @@ const AppDetail = ({ installApps, setInstallApps }) => {
           className="w-32 h-32 md:w-48 md:h-48 object-contain rounded-xl"
         />
         <div className="flex-1">
-          <h1 className="text-2xl md:text-3xl font-bold">{singleApp.title}</h1>
+          <h1 className="text-2xl md:text-3xl font-bold text-center sm:text-left">{singleApp.title}</h1>
           <p className="text-gray-500 mt-1">
             Developed by{' '}
             <span className="text-purple-600 font-semibold">
@@ -52,13 +51,13 @@ const AppDetail = ({ installApps, setInstallApps }) => {
             </span>
           </p>
 
-          <div className="flex flex-wrap gap-4 mt-4">
+          <div className="flex flex-col sm:flex-row gap-4 mt-4">
             <div className="flex flex-col items-center bg-gray-100 px-4 py-2 rounded-lg">
               <span className="text-green-500 text-xl">
                 <FaDownload />
               </span>
               <span className="font-bold">{singleApp.downloads}</span>
-              <span className="text-gray-500 text-sm">Downloads</span>
+              <span className="text-gray-500 text-sm w-full text-center">Downloads</span>
             </div>
             <div className="flex flex-col items-center bg-gray-100 px-4 py-2 rounded-lg">
               <span className="text-yellow-400 text-xl">
@@ -90,7 +89,7 @@ const AppDetail = ({ installApps, setInstallApps }) => {
         </div>
       </div>
 
-      <div className="mt-10 w-full h-64">
+      <div className="mt-10 w-full md:w-[80%] h-64">
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
             data={reversedRatings}

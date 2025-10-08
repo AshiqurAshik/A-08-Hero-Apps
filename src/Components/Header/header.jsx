@@ -4,6 +4,7 @@ import { Link, Links } from 'react-router';
 import { FaGithub } from 'react-icons/fa';
 
 const header = () => {
+
   return (
     <div className="navbar bg-base-100 shadow-sm lg:px-20">
       <div className="navbar-start">
