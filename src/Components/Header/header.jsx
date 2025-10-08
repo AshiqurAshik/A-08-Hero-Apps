@@ -31,7 +31,7 @@ const header = () => {
           >
             <Link to="/">Home</Link>
             <Link to="/apps">Apps</Link>
-            <Link to="/">Installation</Link>
+            <Link to="/install">Installation</Link>
           </ul>
         </div>
         <a className="text-xl flex items-center font-bold">
@@ -59,7 +59,7 @@ const header = () => {
             Apps
           </Link>
           <Link
-            to="/"
+            to="/install"
             className="hover:bg-gradient-to-r hover:from-[#632EE3] hover:to-[#9F62F2] hover:bg-clip-text hover:text-transparent transition-all"
           >
             Installation

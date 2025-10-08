@@ -6,7 +6,6 @@ import TrendingApp from '../TrendingApp/trendingApp';
 import { useLoaderData } from 'react-router';
 
 const Banner = () => {
-
   const data = useLoaderData();
 
   return (
@@ -26,21 +25,26 @@ const Banner = () => {
             into digital experiences that truly make an impact.
           </p>
           <div className="flex gap-4 justify-center items-center mb-10">
-            <button className="flex items-center gap-2 px-4 py-2 border-2 border-[#3DDC84] text-[#3DDC84] rounded hover:bg-[#3DDC84] hover:text-white transition cursor-pointer">
+            <a
+              href="https://play.google.com/store/games?hl=en"
+              className="flex items-center gap-2 px-4 py-2 border-2 border-[#3DDC84] text-[#3DDC84] rounded hover:bg-[#3DDC84] hover:text-white transition cursor-pointer"
+            >
               <IoLogoGooglePlaystore className="w-6 h-6 " />
               Google Play
-            </button>
+            </a>
 
-            <button className="flex items-center gap-2 px-4 py-2 border-2 border-[#0A84FF] text-[#0A84FF] rounded hover:bg-[#0A84FF] hover:text-white transition cursor-pointer">
+            <a
+              href="https://www.apple.com/app-store/"
+              className="flex items-center gap-2 px-4 py-2 border-2 border-[#0A84FF] text-[#0A84FF] rounded hover:bg-[#0A84FF] hover:text-white transition cursor-pointer"
+            >
               <FaAppStoreIos className="w-6 h-6 " />
               App Store
-            </button>
+            </a>
           </div>
 
           <div className="flex justify-center">
             <img src={BannerImg} alt="" />
           </div>
-
 
           <div className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] py-16 text-white rounded-2xl w-full ">
             <h2 className="text-4xl md:text-5xl font-bold mb-12 text-center">
@@ -76,7 +80,7 @@ const Banner = () => {
             </div>
           </div>
           <div>
-            <TrendingApp data = {data}></TrendingApp>
+            <TrendingApp data={data}></TrendingApp>
           </div>
         </div>
       </div>
