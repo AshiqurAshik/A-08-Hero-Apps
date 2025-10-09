@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useLoaderData, useParams } from 'react-router';
 import { FaDownload } from 'react-icons/fa';
 import { FaStar } from 'react-icons/fa6';
 import { MdReviews } from 'react-icons/md';
+import { ToastContainer, toast } from 'react-toastify';
 import {
   Bar,
   BarChart,
@@ -19,19 +20,36 @@ const AppDetail = ({ installApps, setInstallApps }) => {
   const apps = useLoaderData();
   const appID = parseInt(id);
   const singleApp = apps.find((app) => app.id === appID);
-
   const [installed, setInstalled] = useState(false);
 
-  if (!singleApp) return <AppErrorpage></AppErrorpage>;
+  useEffect(() => {
+    const storedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
+    setInstallApps(storedApps);
+    if (storedApps.find((app) => app.id === appID)) {
+      setInstalled(true);
+    }
+  }, [appID, setInstallApps]);
+
+  if (!singleApp) return <AppErrorpage />;
 
   const reversedRatings = [...singleApp.ratings].reverse();
 
   const handleInstall = () => {
+    if (installed) return;
+
+    const updatedApps = installApps.find((app) => app.id === singleApp.id)
+      ? installApps
+      : [...installApps, singleApp];
+
+    setInstallApps(updatedApps);
+    localStorage.setItem('installedApps', JSON.stringify(updatedApps));
     setInstalled(true);
 
-    if (!installApps.find((app) => app.id === singleApp.id)) {
-      setInstallApps((prev) => [...prev, singleApp]);
-    }
+    toast.success(
+      <div className="flex items-center gap-2">
+        <span>Install Completed!</span>
+      </div>
+    );
   };
 
   return (
@@ -43,7 +61,9 @@ const AppDetail = ({ installApps, setInstallApps }) => {
           className="w-32 h-32 md:w-48 md:h-48 object-contain rounded-xl"
         />
         <div className="flex-1">
-          <h1 className="text-2xl md:text-3xl font-bold text-center sm:text-left">{singleApp.title}</h1>
+          <h1 className="text-2xl md:text-3xl font-bold text-center sm:text-left">
+            {singleApp.title}
+          </h1>
           <p className="text-gray-500 mt-1">
             Developed by{' '}
             <span className="text-purple-600 font-semibold">
@@ -57,7 +77,9 @@ const AppDetail = ({ installApps, setInstallApps }) => {
                 <FaDownload />
               </span>
               <span className="font-bold">{singleApp.downloads}</span>
-              <span className="text-gray-500 text-sm w-full text-center">Downloads</span>
+              <span className="text-gray-500 text-sm w-full text-center">
+                Downloads
+              </span>
             </div>
             <div className="flex flex-col items-center bg-gray-100 px-4 py-2 rounded-lg">
               <span className="text-yellow-400 text-xl">
@@ -109,6 +131,8 @@ const AppDetail = ({ installApps, setInstallApps }) => {
         <h2 className="text-xl font-semibold mb-2">Description</h2>
         <p className="text-gray-600 leading-relaxed">{singleApp.description}</p>
       </div>
+
+      <ToastContainer />
     </div>
   );
 };

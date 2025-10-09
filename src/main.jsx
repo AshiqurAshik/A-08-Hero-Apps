@@ -24,7 +24,7 @@ function RouterWrapper() {
       children: [
         {
           index: true,
-          loader: () => fetch('/TrendingApp.json'),
+          loader: () => fetch('/Apps.json'),
           Component: Banner,
         },
         {

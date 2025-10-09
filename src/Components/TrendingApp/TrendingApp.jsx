@@ -21,7 +21,7 @@ const TrendingApp = ({ data }) => {
               key={id}
               className="bg-white rounded-2xl shadow-xl p-6 hover:shadow-2xl transform hover:-translate-y-1 transition-all duration-300 flex flex-col"
             >
-              {/* ✅ fixed image fit style */}
+              
               <div className="relative w-full aspect-[4/3] mb-4">
                 <img
                   src={image}
@@ -47,7 +47,7 @@ const TrendingApp = ({ data }) => {
 
       <div className="flex justify-center mt-12">
         <Link to="/apps">
-          <button className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white px-8 py-3 rounded-full font-bold hover:opacity-90 transition cursor-pointer">
+          <button className="btn text-white bg-gradient-to-r from-[#632EE3] to-[#9F62F2] hover:from-[#9F62F2] hover:to-[#632EE3] hover:brightness-110 transition-all duration-300 flex items-center gap-2">
             Show All
           </button>
         </Link>
