@@ -6,7 +6,7 @@ import Logo from '../../assets/logo.png';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-const InstallPage = ({ installApps, setInstallApps }) => {
+const InstallPage = ({  setInstallApps }) => {
   
   const [loading, setLoading] = useState(true);
   const [sortedApps, setSortedApps] = useState([]);
